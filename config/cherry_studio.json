@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "rabyte-paipai-mcp-sse": {
+      "name": "rabyte-paipai-mcp-sse",
+      "type": "sse",
+      "description": "",
+      "isActive": true,
+      "timeout": "300",
+      "baseUrl": "https://test-mcp-server.rabyte.cn/paipai/sse",
+      "headers": {
+        "api-key": "YOUR API Key"
+      }
+    }
+  }
+}
