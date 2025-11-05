@@ -37,7 +37,7 @@ Cherry Studio 提供了MCP功能，Cherry Studio 将作为MCP服务客户端使�
       "description": "",
       "isActive": true,
       "timeout": "300",
-      "baseUrl": "https://test-mcp-server.rabyte.cn/paipai/sse",
+      "baseUrl": "https://mcp-server.rabyte.cn/paipai/sse",
       "headers": {
         "api-key": "YOUR API Key"
       }
